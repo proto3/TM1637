@@ -67,6 +67,8 @@ uint8_t convert(char c)
             return 0x79;
         case 'S':
             return 0x6d;
+        case 'I':
+            return 0x06;
         case 'M':
             return 0x37;
         case 'O':
